@@ -1,0 +1,10 @@
+x eat food
+x wash
+x eat
+x drink
+x -wash hair
+x - bball
+- x swim
+- eat
+x have fun
+x play tennis
